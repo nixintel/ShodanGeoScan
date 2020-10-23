@@ -1,7 +1,7 @@
 ShodanGeoCheck is a tool designed to find vulnerable IP addresses in a given geographic area. IPs are identified by open
 ports and then cross-referenced with AbuseIPDB to see if the IPs have been reported as being involved in malicious activity.
   
-A report is generated in a CSV file. The CSV also includes URLs for the Shodan/AbuseIPDB reports for more detail. 
+A report is generated in a CSV file. The CSV also includes URLs to view the Shodan/AbuseIPDB reports for more detail. 
 
 ##### Requirements:
 
