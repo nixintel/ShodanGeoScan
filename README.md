@@ -87,6 +87,8 @@ The file must have one location per line. Location names with multiple words nee
   
 E.g. `Manchester` is fine but `Milton Keynes` will throw an error and needs to be listed as `"Milton Keynes"`. I'll get round to fixing this one day.
 
+An example of the format is in the `example.txt` file in this repository.
+
 ##### Bugs and limitations
 
 The main limitations of this program are connected to Shodan's API. With a basic membership API key Shodan will only return a maximum of 100 results, even if the query reports a higher number of matches.  
